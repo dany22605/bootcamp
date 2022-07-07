@@ -1,0 +1,15 @@
+{
+  "name": "hola_mundo",
+  "version": "1.0.0",
+  "description": "Primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "node index.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hola"
+  ],
+  "author": "dani",
+  "license": "ISC"
+}
